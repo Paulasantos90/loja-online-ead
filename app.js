@@ -2,7 +2,7 @@
 
 
 function calculartotal (itens) {
-    let total = 0
+    let total = 1
 
     for (let i = 0; i < itens.length; i++){
         total += itens [i].preco *
