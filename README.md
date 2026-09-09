@@ -1,4 +1,4 @@
 # Loja Online
 
 ## Contato
-Duvidas: contato@loja.com.br
+Duvidas: contato@lojaonline.com.br
