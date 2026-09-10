@@ -1,4 +1,4 @@
-# Loja Online 
+# Loja Online - Campanha de Carnaval
 
 ## Contato
 Duvidas: contato@lojaonline.com.br
