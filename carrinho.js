@@ -1,0 +1,11 @@
+function calcularTotalCarrinho(itens) {
+    if (!Array.isArray(itens)) {
+        throw new Error('itens precisa ser array');
+    }
+
+    return itens.reduce((total, item) => {
+        return total + item.preco * item.quantidade;
+     },0);
+}
+
+module.exports = {calcularTotalCarrinho };
